@@ -1,0 +1,21 @@
+{
+  "name": "learn_nodejs",
+  "version": "1.0.0",
+  "description": "Học Node Js tại F8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "startf8": "node src/f8/app.js "
+  },
+  "author": "source3thaipvt",
+  "license": "ISC",
+  "keywords": [
+    "f8",
+    "nodejs",
+    "codevolution",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
